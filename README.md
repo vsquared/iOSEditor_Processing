@@ -20,10 +20,11 @@ To use the app:
 2. Select a simulator to use (eg, iPhone 16 Pro)
 3. Hit the 'Run' button and patiently wait (takes time to run through multiple steps).
    
-UIKit Output:
+# UIKit Output:
 
 <img width="458" height="977" alt="yellow" src="https://github.com/user-attachments/assets/e30a0ef3-1c97-44e2-8c29-dc09b19bac02" />
 
-SwiftUI Output:
+# SwiftUI Output:
+
 <img width="459" height="971" alt="sui" src="https://github.com/user-attachments/assets/08933b4b-c025-4da0-a1e2-ccde7b07650c" />
 
